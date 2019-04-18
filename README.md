@@ -9,7 +9,7 @@ Each assignment contain "Assignment.pdf" file , "Student_ID.pdf" file and code f
     "output file" contain the files generate in the assignment. </br>
 
 
-##Assignmnet 1 code</br>
+## Assignmnet 1 code</br>
   * Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in assignment folder. Here is outline of the code.</br>
   * hw1 StudentID.py contain the main function.</br>
   * Question1.py. gives detail implemtaion of question 1 of the assignment.</br>

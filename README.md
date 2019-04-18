@@ -1,7 +1,7 @@
 # NTHU-Deep-Learning-Course-2019
 This repository contain all the assignments of Graduate level course (deep learning of spring semester 2019 at NTHU.
 
-Each assignment contain "Assignment.pdf" file , "Student_ID.pdf" file and code folder.
+Each assignment contain "Assignment.pdf" file , "Student_ID.pdf" file and code folder.</br>
   Assignment.pdf file contain questions of the assignment.
   Student_ID.pdf is the report file and contain answers to the question and detail about the code.
   Code folder contain all the code to solve those questions. the code folder might additionaly contain "data" folder and "output files" folder
@@ -10,7 +10,7 @@ Each assignment contain "Assignment.pdf" file , "Student_ID.pdf" file and code f
 
 
 ##Assignmnet 1 code
-  Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in assignment folder. Here is outline of the code.\n
+  Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in assignment folder. Here is outline of the code.
   hw1 StudentID.py contain the main function.
   Question1.py. gives detail implemtaion of question 1 of the assignment.
   Question2.py. gives detail implementaion of question 2 of the assignment.

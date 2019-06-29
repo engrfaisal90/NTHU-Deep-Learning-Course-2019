@@ -33,3 +33,7 @@ Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in 
     + all_reg ~ plots ground truth values against all models. </br>
     + plot_confusion_matrix plot the confusion matrix. </br>
     
+## Assignmnet 2 code</br>
+  Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in assignment folder. Here is outline of the code.</br>
+  * hw1 StudentID.py contain the main function.</br>
+  * 

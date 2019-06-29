@@ -36,4 +36,20 @@ Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in 
 ## Assignmnet 2 code</br>
   Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in assignment folder. Here is outline of the code.</br>
   * hw1 StudentID.py contain the main function.</br>
-  * 
+  * Preprocessing.py preprocess the data. it contains following functions.</br>
+    + split-test ~ split the data into train and test data and also separate the label.</br>
+    + making_batch ~ creates batch data.</br>
+  * Evaluate.py includes the function that evaluates the algorithms.</br>
+    + get_confusion_matrix ~ calculates True positive, True negative, False positive and false negative values.</br>
+    + Accuracy_precision ~ calulates Accuracy and precision. </br>
+    + accuracy_plot ~ plots the accuracy curve
+    + loss_plot ~ plots the loss curve
+    + evaluat ~ calculates and prints the macro and micro precision and F1-Score.
+  * layers.py ~ the classes contain functions through which diffrent layers are created. </br>
+    + rectified_linear ~ create a RELU layer. </br>
+    + layer_S ~ create a softmax layer.
+    + Layer_D ~ create a dense layer.
+    + + The forward function are responsible for forward pass.
+    + + the backward function are resposible for backward pass.
+    + plot_confusion_matrix ~ plot the confusion matrix. </br>
+    + PCA_Visualization ~ project the validation set onto a 2D space by t-SNE

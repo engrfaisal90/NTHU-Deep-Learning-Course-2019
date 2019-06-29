@@ -35,7 +35,7 @@ Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in 
     
 ## Assignmnet 2 code</br>
   Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in assignment folder. Here is outline of the code.</br>
-  * hw1 StudentID.py contain the functions, which solves the realated questions in the assignmnet.</br>
+  * hw2 StudentID.py contain the functions, which solves the realated questions in the assignmnet.</br>
   * Preprocessing.py preprocess the data. it contains following functions.</br>
     + split-test ~ split the data into train and test data and also separate the label.</br>
     + making_batch ~ creates batch data.</br>

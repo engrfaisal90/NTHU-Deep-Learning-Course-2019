@@ -34,7 +34,7 @@ Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in 
     + plot_confusion_matrix plot the confusion matrix. </br>
     
 ## Assignmnet 2 code</br>
-  Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in assignment folder. Here is outline of the code.</br>
+  The details are included in the Assignment.pdf" file and "Student_ID.pdf" in assignment folder. Here is outline of the code.</br>
   * hw2 StudentID.py contain the functions, which solves the realated questions in the assignmnet.</br>
   * Preprocessing.py preprocess the data. it contains following functions.</br>
     + split-test ~ split the data into train and test data and also separate the label.</br>
@@ -55,4 +55,22 @@ Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in 
   * create_model.py ~ Creates the model.
   * train_model.py ~ trains the created model.
     
-    
+## Assignmnet 2 code</br>
+  The details are included in the Assignment.pdf" file and "Student_ID.pdf" in assignment folder. Here is outline of the code.</br>
+* Read_images: this function read all the data.
+* Onehot: this function converts the labels into one hot vectors.
+* Preprocess: this function resize, rescale, check channels and remove noise if necessary. Augmentation: this function augments the data by flipping all the images.
+* Weight_vector: this function generates weight tensor of a shape required for a layer. Bias_vector: this function generates Bias tensor of a shape required for a layer. Layer_convolution creates a convolutional layer, number of inputs, channels, size of filters, number of filters and to use pooling or not is required for tgis function.
+* Layer_flatten: flattens the output from convolutional layer
+* Dense layer: create a dense layer of input and output connection should be passed. Makelayer: creates the whole Network architecture
+* Batch: creates batch training data
+* TestBatch: randomly takes a batch of test data for validation.
+* Optimize: Optimize function is heart of the program which trains the network, Data, number of iterations and batch size and whether regularization should be done or is to be passed to this function.
+* Weights_plot: It plots the histograms of the weights of a layer.
+* Accuracy_plot: It plots the training and validation accuracy, calculated in every epoch. Loss_plot: It plots the training and validation loss, calculated in every epoch. Plot_conv_layer: This function plots outputs of the convolution layers.
+* Question1: read and preprocess the data
+* Question2: it trains the Network
+* Question3: plots the accuracy, loss and weights in layers.
+* Question4: it plots all the images.
+* Question5: it trains the network with Regularization
+* Question6: it applies data augmentation and then train a network.

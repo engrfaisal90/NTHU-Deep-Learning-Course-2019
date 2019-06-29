@@ -35,7 +35,7 @@ Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in 
     
 ## Assignmnet 2 code</br>
   Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in assignment folder. Here is outline of the code.</br>
-  * hw1 StudentID.py contain the main function.</br>
+  * hw1 StudentID.py contain the functions, which solves the realated questions in the assignmnet.</br>
   * Preprocessing.py preprocess the data. it contains following functions.</br>
     + split-test ~ split the data into train and test data and also separate the label.</br>
     + making_batch ~ creates batch data.</br>
@@ -45,11 +45,14 @@ Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in 
     + accuracy_plot ~ plots the accuracy curve
     + loss_plot ~ plots the loss curve
     + evaluat ~ calculates and prints the macro and micro precision and F1-Score.
+    + PCA_Visualization ~ project the validation set onto a 2D space by t-SNE
   * layers.py ~ the classes contain functions through which diffrent layers are created. </br>
     + rectified_linear ~ create a RELU layer. </br>
     + layer_S ~ create a softmax layer.
     + Layer_D ~ create a dense layer.
-    + + The forward function are responsible for forward pass.
-    + + the backward function are resposible for backward pass.
-    + plot_confusion_matrix ~ plot the confusion matrix. </br>
-    + PCA_Visualization ~ project the validation set onto a 2D space by t-SNE
+      + The forward function are responsible for forward pass.
+      + the backward function are resposible for backward pass.
+  * create_model.py ~ Creates the model.
+  * train_model.py ~ trains the created model.
+    
+    

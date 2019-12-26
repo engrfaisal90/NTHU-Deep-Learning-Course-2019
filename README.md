@@ -74,3 +74,7 @@ Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in 
 * Question4: it plots all the images.
 * Question5: it trains the network with Regularization
 * Question6: it applies data augmentation and then train a network.
+
+
+## Assignmnet 3,4,5 code</br>
+The detail of all other assignments can be found in the respective folders.

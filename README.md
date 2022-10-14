@@ -55,7 +55,7 @@ Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in 
   * create_model.py ~ Creates the model.
   * train_model.py ~ trains the created model.
     
-## Assignmnet 2 code</br>
+## Assignmnet 3 code</br>
   The details are included in the Assignment.pdf" file and "Student_ID.pdf" in assignment folder. Here is outline of the code.</br>
 * Read_images: this function read all the data.
 * Onehot: this function converts the labels into one hot vectors.

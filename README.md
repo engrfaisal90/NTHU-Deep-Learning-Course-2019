@@ -1,4 +1,4 @@
-# NTHU-Deep-Learning-Course-2019
+# Deep Learning from scratch (No pytortch and tensorflow)-2019
 This repository contain all the assignments of Graduate level course (deep learning of spring semester 2019 at NTHU.
 
 Each assignment contain "Assignment.pdf" file , "Student_ID.pdf" file and code folder.</br>

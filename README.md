@@ -9,7 +9,7 @@ Each assignment contain "Assignment.pdf" file , "Student_ID.pdf" file and code f
     "output file" contain the files generate in the assignment. </br>
 
 
-## Assignmnet 1 code</br>
+## Preprocessing,Regression (Logistic_regression,Bayesian_LR), Gradient_descent, Confusion_matrix  code</br>
 Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in assignment folder. Here is outline of the code.</br>
   * hw1 StudentID.py contain the main function.</br>
   * Question1.py. gives detail implemtaion of question 1 of the assignment.</br>
@@ -33,7 +33,7 @@ Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in 
     + all_reg ~ plots ground truth values against all models. </br>
     + plot_confusion_matrix plot the confusion matrix. </br>
     
-## Assignmnet 2 code</br>
+## Neural netwrork (Preprocessing, Dense Layers, Softmax, Visualization, Train/test split) code</br>
   The details are included in the Assignment.pdf" file and "Student_ID.pdf" in assignment folder. Here is outline of the code.</br>
   * hw2 StudentID.py contain the functions, which solves the realated questions in the assignmnet.</br>
   * Preprocessing.py preprocess the data. it contains following functions.</br>
@@ -55,7 +55,7 @@ Although detail is included in the Assignment.pdf" file and "Student_ID.pdf" in 
   * create_model.py ~ Creates the model.
   * train_model.py ~ trains the created model.
     
-## Assignmnet 3 code</br>
+## Convolutional neural network code</br>
   The details are included in the Assignment.pdf" file and "Student_ID.pdf" in assignment folder. Here is outline of the code.</br>
 * Read_images: this function read all the data.
 * Onehot: this function converts the labels into one hot vectors.
